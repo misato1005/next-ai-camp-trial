@@ -23,14 +23,7 @@ export default function Home() {
             🎓 AIブートキャンプ 体験版
           </p>
           <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
-            ようこそ！
-            <br />
-            <span className="text-orange-600 dark:text-orange-400">プログラミング</span>
-            と
-            <span className="text-orange-600 dark:text-orange-400"> AI協働スキル</span>
-            を
-            <br />
-            同時に学ぼう。
+            みーちゃんエンジニアになる。
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400">
             このページが見えていれば、最初のセットアップは成功です 🎉
